@@ -1,0 +1,22 @@
+{
+  "name": "docjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^12.0.1",
+    "markdown-it-for-inline": "^0.1.1",
+    "marked": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^10.0.2",
+    "@types/node": "^14.14.0",
+    "typescript": "^4.0.3"
+  }
+}
